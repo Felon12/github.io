@@ -1,0 +1,28 @@
+.img-box{
+	column-count: 3;
+}
+.image{
+	max-width: 100%;
+	column-gap: 0px; #отступы
+}
+.main{
+	box-shadow: 0 0 10px 1px rgba(0, 0, 0, 1.0);
+	margin: 30px;
+	background-color: #efefef;
+	padding-top: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
+	/*flex-wrap: wrap; #записывает в одну строчку*/
+
+
+}
+.headding{
+	text-align: center;
+	font-size: 40px;
+	background-color: blue;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	font-family: 'Barlow', sans-serif;
+}
